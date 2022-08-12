@@ -8,5 +8,5 @@ This Tic Tac Toe game project was completed using REACT with following features.
 To run this project, First download the files to your computer. 
 Then, open terminal at the folder you saved the files and run the following code:
 % http-server -c-1
-Lastly, direct to http://127.0.0.1 on your browser.
-If the page is not shown, try http://127.0.0.1/index.html.
+Lastly, direct to http://localhost:8080 on your browser.
+If the page is not shown, try http://localhost:8080/index.html.
