@@ -10,3 +10,5 @@ Then, open terminal at the folder you saved the files and run the following code
 % http-server -c-1
 Lastly, direct to http://localhost:8080 on your browser.
 If the page is not shown, try http://localhost:8080/index.html.
+
+<img src='tac.gif' width='720' height='720'>
